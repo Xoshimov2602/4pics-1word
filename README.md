@@ -24,14 +24,14 @@ Welcome to the 4Pics1Word Game app repository! This app challenges players to fi
 
 <table>
   <tr>
-    <td><img src="images/screenshot_1.jpg" alt="Screenshot 1" width="200"/></td>
-    <td><img src="images/screenshot_2.jpg" alt="Screenshot 2" width="200"/></td>
-    <td><img src="images/screenshot_3.jpg" alt="Screenshot 3" width="200"/></td>
+    <td><img src="images/screenshot1.jpg" alt="Screenshot 1" width="200"/></td>
+    <td><img src="images/screenshot2.jpg" alt="Screenshot 2" width="200"/></td>
+    <td><img src="images/screenshot3.jpg" alt="Screenshot 3" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/screenshot_4.jpg" alt="Screenshot 4" width="200"/></td>
-    <td><img src="images/screenshot_5.jpg" alt="Screenshot 5" width="200"/></td>
-    <td><img src="images/screenshot_6.jpg" alt="Screenshot 6" width="200"/></td>
+    <td><img src="images/screenshot4.jpg" alt="Screenshot 4" width="200"/></td>
+    <td><img src="images/screenshot5.jpg" alt="Screenshot 5" width="200"/></td>
+    <td><img src="images/screenshot6.jpg" alt="Screenshot 6" width="200"/></td>
   </tr>
 </table>
 
